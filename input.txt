@@ -1,0 +1,13 @@
+procedure a(); // an example code
+begin
+end;
+
+var
+  s: string;
+
+begin
+  a;
+  t;
+  read(s);
+  s := '5';
+end.
